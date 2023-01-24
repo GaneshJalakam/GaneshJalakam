@@ -1,7 +1,7 @@
-<h1 align='center'><font size=6 color='MidnightBlue'>GANESH JALAKAM</font></h1>
+<h1 align='center'><font size=6 color='MidnightBlue'>Hi👋, I'm Ganesh Jalakam</font></h1>
 
 #### Data Engineer | Technology Analyst at Infosys | Master of Science in Data Science, LJMU, UK (Pursuing) | Executive PG Programme in Data Science - Data Engineer, IIIT Bangalore
-![Data Engineer | Technology Analyst at Infosys | Master of Science in Data Science, LJMU, UK (Pursuing) | Executive PG Programme in Data Science - Data Engineer, IIIT Bangalore](https://coreviewsystems.com/wp-content/uploads/data-engineering-cover-pic-FInal3.png)
+![Data Engineer | Technology Analyst at Infosys | Master of Science in Data Science, LJMU, UK (Pursuing) | Executive PG Programme in Data Science - Data Engineer, IIIT Bangalore](https://th.bing.com/th/id/R.1a81472694ac78f4186e4c8ef9b2b6b5?rik=PjrSbTaaG21ocA&riu=http%3a%2f%2fharvway.ie%2fwp-content%2fuploads%2f2018%2f03%2fBig-Data-Banner.png&ehk=xDhcAsTIblatuWUsAMqVrBsmuGVk%2fInD2elAK8PHoaU%3d&risl=&pid=ImgRaw&r=0/banner.png)
 
 ## <font color='Chocolate'>ABOUT ME </font>
 
