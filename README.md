@@ -1,21 +1,23 @@
-# 💫 About Me:
-I'm currently working on Data Engineering project and my role is Technology Analyst at Infosys, Chennai, India.<br>I'm also simultaneously pursuing Master of Science in Data Science at Liverpool John Moores University, UK<br>Recently I completed Executive Post Graduate Programme in Data Science at IIIT Bangalore, India.
+<h1 align='center'><font size=6 color='MidnightBlue'>GANESH JALAKAM</font></h1>
+
+#### Data Engineer | Technology Analyst at Infosys | Master of Science in Data Science, LJMU, UK (Pursuing) | Executive PG Programme in Data Science - Data Engineer, IIIT Bangalore
+![Data Engineer | Technology Analyst at Infosys | Master of Science in Data Science, LJMU, UK (Pursuing) | Executive PG Programme in Data Science - Data Engineer, IIIT Bangalore](https://coreviewsystems.com/wp-content/uploads/data-engineering-cover-pic-FInal3.png)
+
+## <font color='Chocolate'>ABOUT ME </font>
+
+**4+ years** of IT experience in developing and
+maintaining **data warehouses/marts.**
+Proficiency in **Data Warehousing, ETL
+process, OLAP systems, Business
+Intelligence, Big Data and AWS cloud
+technologies.**
+
+## <font color='Chocolate'>TECHNICAL SKILLS</font>
+
+**Python, SQL,  Snowflake, MySQL, Talend Data Integration, Hadoop, Hive, HBase, Spark, Sqoop, Kafka, Airflow, Microsoft Power BI, AWS Cloud (EC2, EMR, S3, Lambda, Redshift, VPC, IAM, Eventbridge).**
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ganesh Jalakam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@GaneshJalakam96) 
+## <font color='Chocolate'>CONTACTS</font>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Snowflake](https://yt3.ggpht.com/a-/AAuE7mCKAn_mIYUCxxiZ5n_Fz1NNJVod0JEBXVAlDA=s900-mo-c-c0xffffffff-rj-k-no) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GaneshJalakam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GaneshJalakam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshJalakam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GaneshJalakam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ganesh-jalakam-204788147/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GaneshJalakam96)  
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@GaneshJalakam96)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=GaneshJalakam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
